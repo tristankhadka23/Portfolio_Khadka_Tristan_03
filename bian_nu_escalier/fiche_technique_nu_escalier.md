@@ -2,9 +2,9 @@
 
 
 
-## Réalisé par Rafael Lozano-Hemmer
+### - Réalisé par Rafael Lozano-Hemmer
 
-### Né en 1967 au Mexique. Rafael vit et travaille présentement a Montréal (Québec,Canada)
+### - Né en 1967 au Mexique. Rafael vit et travaille présentement a Montréal (Québec,Canada)
 
 ## Oeuvre réalisée en 2018
 
