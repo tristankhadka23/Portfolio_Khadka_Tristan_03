@@ -1,20 +1,19 @@
 # Nu descendant un escalier paramétrique
 
 
-
 ### - Réalisé par Rafael Lozano-Hemmer
 
 ### - Né en 1967 au Mexique. Rafael vit et travaille présentement a Montréal (Québec,Canada)
 
-## Oeuvre réalisée en 2018
+### - Oeuvre réalisée en 2018
 
-## Nom de l'exposition ou de l'événement
-
-
-## Lieu de mise en exposition
+### - BIAN métamorphosis
 
 
-## Date de la visite
+### - Exposé a l'Arsenal d'Art Contemporain de montréal 
+
+
+## - Visité le 10 Février 2022
 
 
 ## Description de l'oeuvre ou du dispositif multimédia
@@ -38,5 +37,5 @@
 
 ## 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement
 
-### Références
+# Références
 
