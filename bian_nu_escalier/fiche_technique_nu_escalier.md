@@ -7,16 +7,18 @@
 
 ### - Oeuvre réalisée en 2018
 
-### - BIAN métamorphosis
+### - Le nom de l'exposition est BIAN métamorphosis
 
 
 ### - Exposé a l'Arsenal d'Art Contemporain de montréal 
 
 
-## - Visité le 10 Février 2022
+### - Visité le 10 Février 2022
 
 
-## Description de l'oeuvre ou du dispositif multimédia
+### Description de l'oeuvre ou du dispositif multimédia
+
+(
 
 
 
