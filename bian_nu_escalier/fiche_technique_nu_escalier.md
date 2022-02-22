@@ -18,7 +18,9 @@
 
 # Description de l'oeuvre ou du dispositif multimédia
 
-!  [description de l'oeuvre](media/photo_description_oeuvre.png)
+![description de l'oeuvre](media/photo_description_oeuvre.png)
+
+### Comme expliqué dans cette référence, cet oeuvre 
 
 
 
