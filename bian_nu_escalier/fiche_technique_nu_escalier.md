@@ -77,14 +77,22 @@
 
 # Expérience vécu
 
-###  J'ai beaucoup aimé l'expérience visuel de l'oeuvre. Le fait que les esacliers descendent a l'infini créer une ilustion que j'ai adoré. Les ombres sur les escaliers et l'effet "sans fin"  créer une certaine intrigue. Rafael a créer cette oeuvre pour rendre hommage a "deux compositions picturales de l'artiste Marcel Duchamp, *Nu descendant un escalier (1912)* et *Rotoreliefs(1935).* Je trouve que son oeuvre est digne d'un bon hommage. On remarque facilement le clin d'oeil que Rafael a fait en regardant ces oeuvres:
+###  J'ai beaucoup aimé l'expérience visuel de l'oeuvre. Le fait que les esacliers descendent a l'infini créer une ilustion que j'ai adoré. Les ombres sur les escaliers et l'effet de "sans fin"  créer une certaine intrigue. Rafael a créer cette oeuvre pour rendre hommage a "deux compositions picturales de l'artiste Marcel Duchamp, *Nu descendant un escalier (1912)* et *Rotoreliefs(1935).* Je trouve que son oeuvre est digne d'un bon hommage. On remarque facilement le clin d'oeil que Rafael a fait en regardant ces oeuvres:
 
 ![description de l'oeuvre](media/nu.jpg)
+
 ![description de l'oeuvre](media/rotoreliefs.jpg)
 
 ## ❤️ Ce qui m'a plu et qui m'a donné des idées 
 
+### Comme dit précédament, j'ai adoré l'effet de "sans fin". Cela me fait réfléchir sur qu'est-ce qu'il pourrais avoir au bout de l'escalier! J'aimerais ajouté cette illusion dans l'un de mes projet de video prochainement. Cela serait une bonne source d'inspiration. J'ai aussi beaucoup aimé l'endroit choisi pour projeter cette oeuvre. elle est exposé dans une piece séparer des peintures de l'Arsenal d'Art Contemporain de montréal. Cela m'a rendu calme et appaisé car j'avais l'impression que la piece était plus silencieuse que les autres.
+
+
 ## 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement
+
+Pour etre honnete, j'aurais enlevé le gros fils noirs qui était sur le plancher:
+
+![éloigé de l'oeuvre](media/photo_éloigné_oeuvre.png)
 
 # Références
 
