@@ -65,7 +65,7 @@
 
 ### - une piece spacieuse ( l'oeuvre fait 19-7 pouces/50cm de diamètre avec 3pouces/8cm de profondeur)
 
- *la piece doit avoir une lumière faible ou la de la lumière naturelle*
+ *la piece doit avoir une lumière faible ou de la lumière naturelle*
 
 ### - une prise éléctrique avec un courant de charge de plus de 200W 110-240V
 
@@ -75,9 +75,9 @@
 
 
 
-# Expérience vécue
+# Expérience vécu
 
-## Description de mon expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+###  J'ai beaucoup aimé l'expérience visuel de l'oeuvre. Le fait que les esacliers descendent a l'infini créer une ilustion que j'ai adoré. Les ombres sur les escaliers et l'effet "sans fin"  créer une certaine intrigue. Rafael a créer cette oeuvre pour rendre hommage a "deux compositions picturales de l'artiste Marcel Duchamp, *Nu descendant un escalier (1912)* et *Rotoreliefs(1935).* Je trouve que son oeuvre est digne d'un bon hommage. On remarque facilement le clin d'oeil que Rafael a fait en regardant les oeuvres:
 
 ## ❤️ Ce qui m'a plu et qui m'a donné des idées 
 
