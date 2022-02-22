@@ -1,5 +1,5 @@
 # portfolio de Tristan Khadka
 
-## Ce dossier contient les oeuvres visitées pandant le cours de documentation multimédia.
+## Ce dossier contient les oeuvres visités pandant le cours de documentation multimédia.
 
 
