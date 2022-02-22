@@ -77,7 +77,10 @@
 
 # Expérience vécu
 
-###  J'ai beaucoup aimé l'expérience visuel de l'oeuvre. Le fait que les esacliers descendent a l'infini créer une ilustion que j'ai adoré. Les ombres sur les escaliers et l'effet "sans fin"  créer une certaine intrigue. Rafael a créer cette oeuvre pour rendre hommage a "deux compositions picturales de l'artiste Marcel Duchamp, *Nu descendant un escalier (1912)* et *Rotoreliefs(1935).* Je trouve que son oeuvre est digne d'un bon hommage. On remarque facilement le clin d'oeil que Rafael a fait en regardant les oeuvres:
+###  J'ai beaucoup aimé l'expérience visuel de l'oeuvre. Le fait que les esacliers descendent a l'infini créer une ilustion que j'ai adoré. Les ombres sur les escaliers et l'effet "sans fin"  créer une certaine intrigue. Rafael a créer cette oeuvre pour rendre hommage a "deux compositions picturales de l'artiste Marcel Duchamp, *Nu descendant un escalier (1912)* et *Rotoreliefs(1935).* Je trouve que son oeuvre est digne d'un bon hommage. On remarque facilement le clin d'oeil que Rafael a fait en regardant ces oeuvres:
+
+![description de l'oeuvre](media/nu.png)
+![description de l'oeuvre](media/rotoreliefs.png)
 
 ## ❤️ Ce qui m'a plu et qui m'a donné des idées 
 
