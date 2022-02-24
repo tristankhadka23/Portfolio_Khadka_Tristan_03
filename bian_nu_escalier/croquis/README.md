@@ -1,3 +1,3 @@
-Voici le croquis avec deux plans de l'oeuvre.
+Voici le croquis contenant deux plans de l'oeuvre.
 
-1
+![description de l'oeuvre](croquis/croquis.png)
