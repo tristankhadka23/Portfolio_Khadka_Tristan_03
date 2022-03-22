@@ -20,6 +20,7 @@
 
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
+![projection de l'oeuvre](media/projection.png)
 Projection d'une video monobande de 32 min (en boucle). Il faut donc l'accès a un espace spacieux pour y pouvoir projeter la vidéo. La vidéo doit aussi etre accompagné de la bande sonnore qui est présenté dans l'oeuvre précédent (L’EN DEÇA), mais qui joue tout de meme un grand role dans cet oeuvre (le fleuve).
 
 
