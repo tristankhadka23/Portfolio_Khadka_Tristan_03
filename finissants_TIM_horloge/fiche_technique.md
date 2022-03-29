@@ -15,30 +15,33 @@
 
 ## Description de l'oeuvre ou du dispositif multimédia
 
-"L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale."[L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
+"L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale." [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 
 
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 ![projection de l'oeuvre](media/projection.jpg)
+mettre images
 
-Projection d'une video monobande de 32 min (en boucle). Il faut donc l'accès a un espace spacieux pour y pouvoir projeter la vidéo. La vidéo doit aussi etre accompagnée de la bande sonnore qui est présentée dans l'oeuvre précédente (L’EN DEÇA), mais qui joue tout de meme un grand role dans cette oeuvre (le fleuve).
+projections de vidéo créées en vectoriel sur adobe illustrator et after effects. ensuite projté sur trois mur pour un effet 180 degre
 
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
-- projecteur
+- projecteur (180 deg)
 - ordinateur
 - systéme de son
 - cable de connection de l'ordinateur au projecteur 
 - cable de connection de l'ordinateur au système de son
+- projecteur de lumière
+- toile pour projecter les vidéo
 
 
 
 ## Liste des éléments nécessaires pour la mise en exposition
 
 
-### - une pièce spacieuse
+### - une pièce spacieuse (3 murs obligatoires)
 
  *la piece doit avoir une lumière faible pour permettre de bien voir l'oeuvre*
 
@@ -57,6 +60,5 @@ J'ai beaucoup aimé l'idée d'intégrer le son de l"oeuvre précédente dans cel
 
 
 
-### Références
-[Site 1](https://artpublicmontreal.ca/artiste/bechard-et-hudon/) 
-[Site 2](https://bechardhudon.com/project/sans-titre-no-title-2021/)
+
+[Site 1](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
