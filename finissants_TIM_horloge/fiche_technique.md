@@ -58,7 +58,7 @@ J'ai beaucoup aimé l'idée d'intégrer le son de l"oeuvre précédente dans cel
 
 ## 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement
 
-
+J'aurais peut-etre mis plus d'effort sur certaines planches illustrators. Parfois, on pouvait remarquer que certaines planches étaient plus travaillées que d'autres ce qui jouait sur la cooérence du project.
 
 
 [Site 1](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
