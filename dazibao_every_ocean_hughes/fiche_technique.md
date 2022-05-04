@@ -1,5 +1,5 @@
-# Every ocean hughes(2022)
->#### *Maxime Sabourin, Louis-Philippe Gravel, Maxime De Falco,Tristan Girard-Montpetit, Alexis Lacasse* 
+# Sense and Sense (2010)
+>#### *Every Ocean Hughes* 
 
 ### - Étudiant en technique d'art multimédia au collège montmorency, ils se sont réunis pour créer cette oeuvre dans le cas d'un projet de fin de session.  
 
