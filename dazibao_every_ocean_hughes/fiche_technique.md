@@ -24,42 +24,47 @@
 ![projection de l'oeuvre](media/coter_gauche.jpg)
 
 
-projections de vidéo créées en vectoriel sur adobe illustrator et after effects. ensuite projté sur trois mur pour un effet 180 degre
+projections de vidéos tournées par Every Ocean et projettées sur deux rectangles blancs au sol.
 
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
-- projecteur (180 deg)
+- 2 projecteurs
 - ordinateur
-- systéme de son
 - cable de connection de l'ordinateur au projecteur 
-- cable de connection de l'ordinateur au système de son
-- projecteur de lumière
-- toile pour projecter les vidéo
+- 2 rectangles de toile pour projecter les vidéos
 
 
 
 ## Liste des éléments nécessaires pour la mise en exposition
 
 
-### - une pièce spacieuse (3 murs obligatoires)
+### - une pièce spacieuse
 
- *la piece doit avoir une lumière faible pour permettre de bien voir l'oeuvre*
+ *la piece doit avoir une lumière faible pour permettre de bien voir la projection sur les deux toiles*
+ 
+ ### - sans trop de bruits
+
+ *éviter de perturber le silence de l'oeuvre*
 
 ### - une prise électrique
 
 # Expérience vécue
 
 ## Description de mon expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-J'ai adoré l'expérience visuelle et auditive de cette oeuvre. la cohération entre cette oeuvre et l'oeuvre L’EN DEÇA est très intéressante. L'emplacement des deux oeuvres est très bien pensé. on sort de l'ouvre L’EN DEÇA avec une certaine paix d'esprit mais qui nous laisse tout de meme dans l'inconnue. Par la suite, on voit LE FLEUVE qui mous aide visuellement a représenter le son et nous garde dans l'ambiance du confort et du calme.
+
+J'ai beaucoup aimé l'expérience. Le fait que les vidéos ne dégagent aucun son nous permet de vraiment nous concentrer sur ce qui se passe. Le concpet de projetter sur deux écrans nous permet d'avoir deux points de vue différents. L'Un de proche et l'autre de loin. 
 
 ## ❤️ Ce qui m'a plu et qui m'a donné des idées 
 
-J'ai beaucoup aimé l'idée d'intégrer le son de l"oeuvre précédente dans celle-ci. Le son est subtile mais il s'accorde parfaitement avec l'image et créer une ambiance apaisante et calme. Sans la bande de son, j'aurais eu une expérience totalement différente!
+J'ai adoré le fait que les videos soient projetter au sol et non sur un mur. Cela permet de la différencier des autres oeuvres de l'exposition qui étaient tous projettées sur des murs. J'ai de plus aimé voir que Every Ocean a créer cette oeuvre en relation a la politique du pays qui se passait en 2010. J'ai trouvé qu'elle l'a bien représenté.
 
 ## 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement
+Parcontre, le fait que les videos étaient un peu trop bas au sol. Moi-meme (de taille moyenne) devait me mettre dans une position inconfortable pour pouvoir bien voir l'oeuvre. J'aurais donc suspendu les deux toiles pour une meilleure expériece.
+
+![description de l'oeuvre](media/haut.jpg)
+
+![description de l'oeuvre](media/prise_mur.jpg)
 
 
-
-
-[Site 1](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
+[Site 1](https://dazibao.art/exposition-proximite-plaisir-plasticite-regard-sur-la-performance)
