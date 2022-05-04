@@ -53,7 +53,7 @@ projections de vidéos tournées par Every Ocean et projettées sur deux rectang
 
 ## Description de mon expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
-J'ai beaucoup aimé l'expérience. Le fait que les vidéos ne dégagent aucun son nous permet de vraiment nous concentrer sur ce qui se passe. Le concpet de projetter sur deux écrans nous permet d'avoir deux points de vue différents. L'Un de proche et l'autre de loin. 
+J'ai beaucoup aimé l'expérience. Le fait que les vidéos ne dégagent aucun son nous permet de vraiment nous concentrer sur ce qui se passe. Le concept de projetter sur deux écrans nous permet d'avoir deux points de vue différents. L'Un de proche et l'autre de loin. 
 
 ## ❤️ Ce qui m'a plu et qui m'a donné des idées 
 
