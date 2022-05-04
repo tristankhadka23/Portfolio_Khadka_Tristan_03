@@ -1,3 +1,1 @@
-# Images
-
-ce dossier contient les images utilisés pour la description
+Dossier contenant tout les photos et références de l'oeuvre
