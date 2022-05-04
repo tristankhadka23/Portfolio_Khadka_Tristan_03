@@ -17,11 +17,12 @@
 
 "L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale." [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 
-
+![projection de l'oeuvre](media/horloge.JPG)
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
-![projection de l'oeuvre](media/projection.jpg)
-mettre images
+
+![projection de l'oeuvre](media/projecteur.JPG)
+
 
 projections de vidéo créées en vectoriel sur adobe illustrator et after effects. ensuite projté sur trois mur pour un effet 180 degre
 
@@ -35,6 +36,10 @@ projections de vidéo créées en vectoriel sur adobe illustrator et after effec
 - cable de connection de l'ordinateur au système de son
 - projecteur de lumière
 - toile pour projecter les vidéo
+
+![projection de l'oeuvre](media/lumiere.JPG)
+
+![projection de l'oeuvre](media/systeme_son.JPG)
 
 
 
