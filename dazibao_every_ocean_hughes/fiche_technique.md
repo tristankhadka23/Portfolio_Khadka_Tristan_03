@@ -1,22 +1,22 @@
 # Sense and Sense (2010)
 >#### *Every Ocean Hughes* 
 
-### - Étudiant en technique d'art multimédia au collège montmorency, ils se sont réunis pour créer cette oeuvre dans le cas d'un projet de fin de session.  
+### - Every Ocean Hughes (né en 1977), anciennement connu sous le nom d'Emily Roysdon, est une artiste et écrivaine basée à New York et Stockholm, actuellement professeure d'art à Konstfack à Stockholm, en Suède.
 
 
-### - réalisée en 2022
+### - réalisée en 2010
 
 
-### - Projet finissants TIM 2022, présentée au collège Montmorency, Québec, Canada.
+### - proximité · plaisir · plasticité regard sur la performance 2022, présentée par Dazibao, Québec, Canada.
 
 
 
-### - Visitée le jeudi le 25 mars 2022
+### - Visitée le mardi le 3 Mai 2022
 
 
 ## Description de l'oeuvre ou du dispositif multimédia
 
-![description de l'oeuvre](media/description.jpg)
+![description de l'oeuvre](media/coter_gauche.jpg)
 
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
