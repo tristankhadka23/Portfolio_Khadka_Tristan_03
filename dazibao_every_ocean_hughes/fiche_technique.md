@@ -16,12 +16,13 @@
 
 ## Description de l'oeuvre ou du dispositif multimédia
 
-![description de l'oeuvre](media/coter_gauche.jpg)
+![description de l'oeuvre](media/description.jpg)
 
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
-![projection de l'oeuvre](media/projection.jpg)
-mettre images
+
+![projection de l'oeuvre](media/coter_gauche.jpg)
+
 
 projections de vidéo créées en vectoriel sur adobe illustrator et after effects. ensuite projté sur trois mur pour un effet 180 degre
 
